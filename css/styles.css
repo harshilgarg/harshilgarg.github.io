@@ -211,6 +211,15 @@ a {
 	padding-right:15px;
 }
 
+.bc2 {
+	width:80%;
+	background:#fdf2f1;
+	margin-bottom:25px;
+	margin:auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+
 .figure1 {
 	width:62.5%;
 	display: flex;
@@ -247,6 +256,16 @@ a {
 	text-align: center;
 }
 
+.caption3 {
+	padding-top:20px;
+	width: 100%;
+	margin-left:auto;
+	margin-right:auto;
+	font-family:'GothamLight';
+	font-size: 1.2em;
+	text-align: center;
+}
+
 .source {
 	padding-top:10px;
 	font-family:'GothamMedium';
@@ -259,8 +278,55 @@ a {
 	margin-right:auto;
 	text-transform:uppercase;
 }
+.source2{
+text-align:center;
+margin-left:auto;
+}
+.source2 a {
+	padding-top:10px;
+	font-family:'GothamMedium';
+	letter-spacing:1px;
+	width:20%;
+	padding-bottom:20px;
+	font-size:0.8em;
+	margin-left:auto;
+	text-transform:uppercase;
+	color: #f45b69;
+}
+
 
 .par2 img{
 	float: left;
-	width:50%;
+	width:60%;
+}
+
+.par3 img {
+	float:right;
+	width:60%;
+	margin-left:1px;
+}
+
+.par4 img {
+	float:left;
+	width:60%;
+	margin-right:20px;
+}
+
+.quote {
+	font-family:'ChronicleDisplayRoman';
+	font-size:32px;
+	line-height:45px;
+	width:100%;
+	padding:15px;
+	padding-bottom:0px;
+	margin:auto;
+}
+.par5 img {
+	float:left;
+	width:65%;
+	margin-right:20px;
+}
+
+.spacewaste {
+	height:20px;
 }
