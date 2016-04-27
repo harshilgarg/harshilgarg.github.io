@@ -67,7 +67,7 @@ a {
 	display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
-    margin-left:0%;
+    margin-left:-10%;
     margin-right:0%;
     text-align: center;
 }
@@ -88,7 +88,6 @@ a {
 .nav img {
 	height: 54px;
 	margin-top: 28px;
-	margin-left: 35px;
 }
 
 .date {
